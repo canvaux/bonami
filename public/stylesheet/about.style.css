@@ -3,6 +3,7 @@
     background-image: url(../images/ab.png);
     background-position: center;
     background-size: cover;
+    background-color: white;
 }
 .about_banner .about_content_div {
     padding-top: 200px;
@@ -19,6 +20,7 @@
 }
 
 .creating_a_world_class {
+    background-color: white;
     margin-top: -80px;
 }
 
@@ -28,6 +30,7 @@
     background-position: center;
     background-size: cover;
     padding: 250px 0;
+    background-color: white;
 }
 .your_truest_foundation h5 {
     color: var(--lightGreenCl);
@@ -171,3 +174,5 @@
 
 
 /* Client Testimonials */
+
+

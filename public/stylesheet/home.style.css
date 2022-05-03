@@ -16,13 +16,23 @@
     text-transform: uppercase;
     letter-spacing: 0.5em;
 }
-
+.ml123{
+    letter-spacing: 3px;
+    word-spacing: 6px;
+}
 .ml12 .letter {
     display: inline-block;
     line-height: 1em;
 }
+
+.banner_section h4,
 .banner_section h1 {
     font-weight: 800;
+    font-size: 45px;
+    margin: 12px 0;
+    text-transform: capitalize;
+}
+.home h1{
     font-size: 82.4758px;
 }
 .line_div {
