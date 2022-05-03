@@ -145,6 +145,6 @@ main {
 }
 
 .home .line_div ~ p{
-    color: #fff;
+    color: #fff !important;
 }
 
