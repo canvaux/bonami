@@ -139,5 +139,8 @@ main {
     position: absolute;
 } */
 
-
+.line_div ~ p{
+    color: var(--lightGreenCl);
+    text-transform: uppercase;
+}
 
