@@ -148,3 +148,10 @@ main {
     color: #fff !important;
 }
 
+.maingreencolor{
+    color: var(--lightGreenCl) !important;
+}
+
+.homecontact{
+    color: unset !important;
+}
