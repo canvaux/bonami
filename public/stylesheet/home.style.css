@@ -26,7 +26,7 @@
     font-size: 82.4758px;
 }
 .line_div {
-    width: 15%;
+    width: 100px;
     height: 2px;
     background-color: var(--lightGreenCl);
 }
@@ -350,6 +350,19 @@
 .contact_for_consulation h5 {
     font-weight: 600;
     font-size: 30px;
+}
+.field{
+    height: 60px;
+    background: #f5f5f5;
+    border-radius: 15px;
+    padding: 1rem;
+    border: none;
+}
+.field .input{
+    width: 100%;
+    background: #f5f5f5;
+    border: none;
+    color: #757575;
 }
 .contact_for_consulation input,
 .contact_for_consulation textarea {
