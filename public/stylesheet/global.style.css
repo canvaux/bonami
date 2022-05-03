@@ -144,3 +144,7 @@ main {
     text-transform: uppercase;
 }
 
+.home .line_div ~ p{
+    color: #fff;
+}
+
