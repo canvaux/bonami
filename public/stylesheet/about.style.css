@@ -5,6 +5,7 @@
     background-size: cover;
     background-color: white;
 }
+
 .about_banner .about_content_div {
     padding-top: 200px;
     padding-bottom: 350px;
@@ -15,6 +16,7 @@
     font-weight: 700;
     font-size: 45px;
 }
+
 .about_banner p {
     color: var(--lightGreenCl);
 }
@@ -32,9 +34,18 @@
     padding: 250px 0;
     background-color: white;
 }
+
 .your_truest_foundation h5 {
     color: var(--lightGreenCl);
 }
+
+.your_truest_foundation .truest_p {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: justify;
+}
+
 /* YOUR TRUST, OUR FOUNDATION. */
 
 /* we love to talk */
@@ -45,27 +56,33 @@
     background-size: cover;
     margin-top: -170px;
 }
+
 .we_love_to_talk h5 {
     color: var(--lightGreenCl);
 }
+
 .we_love_to_talk h3 {
     font-weight: 800;
     font-size: 45px;
     color: var(--mainColorCl);
 }
+
 .we_love_to_talk .blog_image {
     width: 100%;
     height: 400px;
     position: relative;
     overflow: hidden;
 }
+
 .we_love_to_talk .blog_hover img {
     width: 100%;
     height: 100%;
 }
+
 .we_love_to_talk .blog_content_image {
     width: 100%;
 }
+
 .we_love_to_talk .metting_div {
     padding: 1rem 3rem;
     background-color: var(--lightGreenCl);
@@ -74,14 +91,17 @@
     left: 20px;
     color: var(--mainColorCl);
 }
+
 .we_love_to_talk h4 {
     color: var(--mainColorCl);
     font-weight: 600;
     font-size: 23px;
 }
+
 .we_love_to_talk p {
     color: var(--mainColorCl);
 }
+
 .blog_hover {
     width: 30px;
     height: 30px;
@@ -89,26 +109,31 @@
     border-radius: 50%;
     cursor: pointer;
 }
+
 .blog_hover img {
     width: 100%;
     height: 100%;
 }
+
 /* we love to talk */
 
 /* Client Testimonials */
 .client_testimonials h5 {
     color: var(--lightGreenCl);
 }
+
 .client_testimonials h1 {
     font-weight: 800;
     font-size: 50px;
     line-height: 65px;
 }
+
 .client_testimonials h1 span {
     background-image: linear-gradient(to right top, #be50ae, #ad5bc1, #9666d3, #7671e1, #467bec);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
 .user_testimonial_div {
     padding: 2rem;
     background-color: var(--mainColorCl);
@@ -116,29 +141,35 @@
     position: relative;
     z-index: 9;
 }
+
 .user_testimonial_div .user_profile_div {
     width: 100px;
     height: 100px;
     overflow: hidden;
     border-radius: 50%;
 }
+
 .user_testimonial_div .user_profile_div img {
     width: 100%;
 }
+
 .user_testimonial_div h5 {
     color: var(--darkBlueCl);
     font-weight: 600;
     font-size: 20px;
 }
+
 .user_testimonial_div span {
     font-weight: 400;
     font-size: 18px;
 }
+
 .user_testimonial_div p {
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
 }
+
 .bottom_arrrow {
     width: 100px;
     height: 100px;
@@ -150,11 +181,12 @@
     left: 20px;
     z-index: 8;
 }
-.client_testimonials .items .col-12{
+
+.client_testimonials .items .col-12 {
     position: relative;
 }
 
-.client_testimonials .items .col-12{
+.client_testimonials .items .col-12 {
     transition: all .4s;
 }
 
@@ -164,15 +196,13 @@
     transition: all .4s;
 }
 
-.user_testimonial_div:hover  h5{
+.user_testimonial_div:hover h5 {
     color: white;
 }
 
-.client_testimonials .items .col-12:hover .bottom_arrrow{
+.client_testimonials .items .col-12:hover .bottom_arrrow {
     background-image: url(../images/test_box.png);
 }
 
 
 /* Client Testimonials */
-
-
